@@ -16,7 +16,7 @@ body{
 
 }
 .name-color{
-    color:darkblue;
+       color:rgb(219, 0, 128);
 }
 .button{
     font-size: 25px;
@@ -29,7 +29,7 @@ body{
     border-radius: 20px;
 }
 h1{
-    font-size: 50px;
+    font-size: 45px;
 }
 .header-part img{
     width: 100%;
